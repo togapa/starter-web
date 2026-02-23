@@ -17,3 +17,5 @@ asfdfadsfadsfadsfadsfasfasf
 Please fork this repository and then issue pull request for review
 
 Making rebase related changes to Master
+
+Updat copy right notice for stash example
